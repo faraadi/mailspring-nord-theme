@@ -4,7 +4,7 @@
   "displayName": "Mailspring Nordic Theme",
   "theme": "ui",
   "version": "1.0.0",
-  "description": "An arctic, north-bluish color theme for Mailspring",
+  "description": "A Nordic Theme for Mailspring!",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
